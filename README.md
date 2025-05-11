@@ -10,7 +10,7 @@ My name is Pedro Henrique Menezes and I'm a Data Science Student from UniCEUB. I
 ![](https://img.shields.io/badge/Tools-BrModelo-cyan)
 
 ## 📱 Contact me
-You can find me on [LinkedIn](https://www.linkedin.com/in/pedro-menezes-5a4793355/) or in the e-mail pedro.demenezes07@gmail.com
+You can find me on [LinkedIn](https://www.linkedin.com/in/pedro-menezes-5a4793355/)
 
 <!--
 **pedrodemnz/pedrodemnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
