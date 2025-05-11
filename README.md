@@ -1,5 +1,13 @@
-## Hi there 👋
 
+## Hello World! 👋
+
+My name is Pedro Henrique Menezes and I'm a Data Science Student from UniCEUB. I live in Brasília.
+
+## 🔧 Competences
+![](https://img.shields.io/badge/English_level-Advanced-cyan)
+![](https://img.shields.io/badge/OS-Windows-cyan)
+![](https://img.shields.io/badge/Code-Python-cyan)
+![](https://img.shields.io/badge/Tools-BrModelo-cyan)
 <!--
 **pedrodemnz/pedrodemnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
